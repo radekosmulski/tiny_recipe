@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tiny_recipe"
+  site-url: "https://radekosmulski.github.io/tiny_recipe"
+  description: "A tiny library that applies actions expressed as strings to an input to create a result."
+  repo-branch: main
+  repo-url: "https://github.com/radekosmulski/tiny_recipe"
